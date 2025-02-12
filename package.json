@@ -1,0 +1,11 @@
+{
+    "name": "studentt",
+    "version": "18.2.1",
+    "description": "studentt",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "private": true,
+    "dependencies": {},
+    "engines": {
+        "node": ">=16"
+    }
+}
